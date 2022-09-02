@@ -11,7 +11,7 @@ may have some typo with question number
 
 
 ## Code
-the code below is just for template for me 
+the code below here is just template for me 
 because writing int main again and again is sucks.
 
 ```
@@ -29,5 +29,5 @@ int main(){
 }
 ```
 
-
+ P.S.
 늦었다고 생각할 때가 가장 빠른게 아닐까...?
