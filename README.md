@@ -1,10 +1,18 @@
-### algorithm study BOJ
+# algorithm study BOJ
 
-this repo with my answer code...
-and the code below is just for template for me because I don't want to write int main again and again
+This repo with my answer codes...
+Since 2022 summer 
+
+
 
 may have some typo with question number
 
+
+
+
+## Code
+the code below is just for template for me 
+because writing int main again and again is sucks.
 
 ```
 #include <iostream>
@@ -20,3 +28,6 @@ int main(){
 
 }
 ```
+
+
+늦었다고 생각할 때가 가장 빠른게 아닐까...?
