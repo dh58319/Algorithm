@@ -1,6 +1,6 @@
-# algorithm study BOJ
+# BOJ algorithm study with C++
 
-This repo with my answer codes...
+This repo with my answer codes written in C++
 Since 2022 summer 
 
 
