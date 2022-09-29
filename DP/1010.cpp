@@ -11,7 +11,6 @@ int main(){
         cin >> n >> m;
         for (int i =1 ; i<=m;i++){
             ans[1][i]=i;
-
         }
         for (int i = 2; i<=n;i++){
             for (int j =2; j<= m; j++){
